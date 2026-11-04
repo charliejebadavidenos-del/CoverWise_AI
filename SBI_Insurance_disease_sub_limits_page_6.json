@@ -1,0 +1,15 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    6
+  ],
+  "clauses": [
+    {
+      "name": "disease_sub_limits",
+      "status": "found",
+      "explanation": "The policy limits cataract treatment payments to 15 % of the Sum Insured, with a maximum of INR 25,000 per eye, and excludes coverage for the first two years after policy commencement.",
+      "evidence": "Cataract Treatment: Our obligation to make payment in respect of any claim for treatment of Cataract including surgery thereof under the policy is limited to 15 % of the Sum Insured subject to a maximum of INR 25000 per eye and further subject to first two years exclusion for cataract as provided under the Policy.",
+      "page_number": 6
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    8
+  ],
+  "clauses": [
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "found",
+      "explanation": "The policy excludes coverage for any condition diagnosed or treated before the first policy date for a period of 48 consecutive months. This exclusion ends only after continuous coverage of 4 years without break, and it also applies to any increased indemnity on renewal without break. Rollover conditions continue on the next page and require separate review.",
+      "evidence": "Benefits will not be available for Any condition, whether diagnosed or not, ailment or injury or related condition(s) for which Insured has been diagnosed, received medical treatment, had signs and / or symptoms, prior to inception of Insured’s first Policy, until 48 consecutive months have elapsed, after the date of inception of the first Policy with Insurer. It would also mean any direct or indirect complications arising out of pre-existing conditions whether known or unknown to the Insured.\n\nThis Exclusion shall cease to apply if Insured has maintained the Health Insurance Policy with Insurer for a continuous period of a full 4 years without break from the date of Insured’s first Health Insurance Policy with Insurer.\n\nThis Exclusion shall also apply to the extent of the amount by which the limit of indemnity has been increased if the Policy is a renewal of the Health Insurance Policy with Insurer without break in cover.",
+      "page_number": 8
+    }
+  ]
+}

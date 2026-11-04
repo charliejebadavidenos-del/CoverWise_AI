@@ -1,0 +1,15 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    6
+  ],
+  "clauses": [
+    {
+      "name": "icu_limit",
+      "status": "found",
+      "explanation": "The policy provides that ICU daily expenses are covered at 2% of the Sum Insured per day. The total Room, Board & Nursing expenses, including ICU, are capped at 25% of the Sum Insured per illness or injury.",
+      "evidence": "Room, Board & Nursing expenses as charged by the Hospital/Nursing Home Excluding registration and service Expenses are covered up to 1% of the Sum Insured per day and if admitted into Intensive Care Unit up to 2% of the Sum Insured per day under the policy.\n\nAll admissible claims under Room, Board & Nursing Expenses including ICU, during the policy period are restricted maximum up to 25% of the Sum Insured per illness/injury.",
+      "page_number": 6
+    }
+  ]
+}

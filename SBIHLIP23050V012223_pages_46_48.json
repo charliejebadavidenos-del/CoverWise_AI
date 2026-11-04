@@ -1,0 +1,101 @@
+{
+  "document_name": "SBIHLIP23050V012223.pdf",
+  "analyzed_pages": [
+    46,
+    47,
+    48
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "found",
+      "explanation": "A 24‑month continuous coverage waiting period applies to pre‑existing diseases and their direct complications.",
+      "evidence": "a) Expenses related to the treatment of a Pre-Existing Diseases (PED) and its direct complications shall be excluded until the expiry of 24 months of continuous coverage after the date of inception of the first Policy with Us.",
+      "page_number": 47
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "exclusions",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "found",
+      "explanation": "Single adults are covered for 48 months; all other family combinations for 24 months.",
+      "evidence": "VI) Maternity and Related Expenses cover: Single Adult – 48 months and All other Family Combinations – 24 months",
+      "page_number": 47
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "expense_category_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_attendant_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

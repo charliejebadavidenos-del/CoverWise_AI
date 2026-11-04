@@ -1,0 +1,101 @@
+{
+  "document_name": "Family Medicare Policy.pdf",
+  "analyzed_pages": [
+    4,
+    5,
+    6
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "found",
+      "explanation": "Room, boarding and nursing expenses are limited to 1% of the sum insured per day or actual expenses, whichever is less.",
+      "evidence": "i. Room, Boarding and Nursing expenses (all inclusive) incurred as provided by the Hospital/Nursing Home up to 1% of Sum Insured per day or actual expenses whichever is less.",
+      "page_number": 6
+    },
+    {
+      "name": "icu_limit",
+      "status": "found",
+      "explanation": "ICU or ICUC accommodation is limited to 2% of the sum insured per day or actual expenses, whichever is less.",
+      "evidence": "ii. Charges for accommodation in Intensive Care Unit (ICU)/ Intensive Cardiac Care Unit (ICCU) up to 2% of Sum Insured per day or actual expenses whichever is less.",
+      "page_number": 6
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "found",
+      "explanation": "Specific disease sub‑limits apply to cataract, hernia & hysterectomy, major surgeries, and others, as detailed in the policy.",
+      "evidence": "Surgery / Illness / Disease / Procedure Maximum Limits per Surgery/Hospitalisation restricted to Cataract Up to 25% of Sum Insured or Rs. 40,000 per eye, whichever is less Hernia & Hysterectomy Up to 25% of Sum Insured or Rs. 1,00,000, whichever is less Major surgeries which include Cardiac Surgeries; Brain Tumour Surgeries; Pace Maker Implantation Up to 70% of the Sum Insured for Sick Sinus Syndrome; Cancer Surgeries; Hip, Knee, Joint Replacement Surgery; Organ Transplant",
+      "page_number": 6
+    },
+    {
+      "name": "exclusions",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "expense_category_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_attendant_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

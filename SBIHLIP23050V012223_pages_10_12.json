@@ -1,0 +1,101 @@
+{
+  "document_name": "SBIHLIP23050V012223.pdf",
+  "analyzed_pages": [
+    10,
+    11,
+    12
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "found",
+      "explanation": "The policy provides coverage for medically necessary inpatient hospitalization treatment for at least 24 hours, including room rent, ICU expenses, nursing, specialist fees, and related charges, up to the Base Sum Insured and enhanced limits.",
+      "evidence": "If You are hospitalized for a minimum of 24 hours on the advice of Medical Practitioner as defined under the Policy due to Illness or Accidental Bodily Injury, sustained or contracted during the Policy Period, then We will pay You below listed medical expenses up to the Base Sum Insured and enhanced limits as specified in Policy Schedule.",
+      "page_number": 11
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "found",
+      "explanation": "Room rent and boarding expenses are reimbursed up to a specified Room Rent limit as per the Policy Schedule.",
+      "evidence": "Room rent and boarding expenses as provided by the Hospital/Nursing home up to the Room Rent limit as specific in the Policy Schedule.",
+      "page_number": 11
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "exclusions",
+      "status": "found",
+      "explanation": "The policy excludes coverage for time spent in an Intensive Care Unit (ICU) and does not allow the same hospitalization to be claimed under both the inpatient treatment and shared accommodation benefit.",
+      "evidence": "a. The Cover is not available for the time spent by the Insured Person in an Intensive Care Unit (ICU).\n\nb. The claim for the same Hospitalization is not admissible under clause a) of Section C.1 (Inpatient Hospitalization Treatment).",
+      "page_number": 12
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "expense_category_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_attendant_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

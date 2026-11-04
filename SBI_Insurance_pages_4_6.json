@@ -1,0 +1,87 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    4,
+    5,
+    6
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "found",
+      "explanation": "The policy covers inpatient medical expenses when the insured is hospitalized for more than 24 hours, subject to the limits specified under Room, Board & Nursing expenses and other categories.",
+      "evidence": "Insurer shall pay the expenses reasonably and necessarily incurred by or on behalf of the Insured Person under the following categories but not exceeding the Sum Insured and subject to deduction of any excess as reflected in the policy schedule in respect of such Insured person as specified in the Schedule: 1. Room, Board & Nursing expenses as charged by the Hospital/Nursing Home Excluding registration and service Expenses are covered up to 1% of the Sum Insured per day and if admitted into Intensive Care Unit up to 2% of the Sum Insured per day under the policy.",
+      "page_number": 6
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "found",
+      "explanation": "Charges payable under room, board & nursing are limited to 1% of the Sum Insured per day, and if admitted into ICU up to 2% per day.",
+      "evidence": "Room, Board & Nursing expenses as charged by the Hospital/Nursing Home Excluding registration and service Expenses are covered up to 1% of the Sum Insured per day and if admitted into Intensive Care Unit up to 2% of the Sum Insured per day under the policy.",
+      "page_number": 6
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "found",
+      "explanation": "Room, Board & Nursing up to 25% of Sum Insured per illness; Medical Practitioner and Surgical expenses up to 40% per illness.",
+      "evidence": "All admissible claims under Room, Board & Nursing Expenses including ICU, during the policy period are restricted maximum up to 25% of the Sum Insured per illness/injury. 2. Medical Practitioner, Surgeon, Anesthetist, Consultants, and Specialists Fees - All admissible claims under this section during the policy period restricted maximum up to 40% of the Sum Insured per illness/injury.",
+      "page_number": 6
+    },
+    {
+      "name": "exclusions",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

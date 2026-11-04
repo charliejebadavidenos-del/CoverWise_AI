@@ -1,0 +1,87 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    7,
+    8,
+    9
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "copayment",
+      "status": "found",
+      "explanation": "Insured must bear 10% of admissible claim in non‑network hospitals in addition to the excess, as stated in the Co-pay clause.",
+      "evidence": "Co-pay: For all admissible claims in non-network hospitals, Insured shall bear 10% of the admissible claim in addition to the excess as per terms of insurance",
+      "page_number": 8
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "exclusions",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_coverage",
+      "status": "found",
+      "explanation": "Child care coverage provides INR 500 per day for escort expenses for a child below 10 years, up to a maximum of 30 days per policy period.",
+      "evidence": "Child Care: Insurer shall pay for the attendant escort Expenses of INR 500 for each completed day of Hospitalisation of a child below 10 years of age, subject to maximum of 30 days during the Policy Period.",
+      "page_number": 8
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

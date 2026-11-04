@@ -1,0 +1,101 @@
+{
+  "document_name": "Family Medicare Policy.pdf",
+  "analyzed_pages": [
+    7,
+    8,
+    9
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "found",
+      "explanation": "The policy covers primary in-patient hospitalization under Section 3.1 and also includes domiciliary hospitalization for periods exceeding three days when treatment is at home due to inability to move or lack of hospital room.",
+      "evidence": "We will cover, on a reimbursement basis, medical treatment for a period exceeding three days for such an illness/disease/injury which in the normal course would require care and treatment at a hospital but is actually taken while confined at home under any of the following circumstances: i. The condition of the patient is such that he/she is not in a condition to be moved to a hospital or ii. The patient takes treatment at home on account of non-availability of room in a hospital.",
+      "page_number": 7
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "found",
+      "explanation": "Pre-existing diseases are excluded for 48 months from the first policy inception, with reduced periods for continuous coverage and fresh exclusion for increased sum insured.",
+      "evidence": "Expenses related to the treatment of a pre-existing Disease (PED) and its direct complications shall be excluded until the expiry of 48 months of continuous coverage after the date of inception of the first policy with us.",
+      "page_number": 9
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "found",
+      "explanation": "The policy specifies sub-limits for certain modern treatment methods, such as up to 70% of Sum Insured for Deep Brain Stimulation and up to 20% for Balloon Sinuplasty, with maximum monetary caps.",
+      "evidence": "Up to 70% of Sum Insured per policy period for claims involving Deep Brain Stimulation",
+      "page_number": 7
+    },
+    {
+      "name": "exclusions",
+      "status": "found",
+      "explanation": "Exclusions include treatment for a list of diseases for domiciliary hospitalization, a 48‑month waiting period for pre-existing diseases, a 24‑ or 48‑month waiting period for specific diseases/procedures, and a 30‑day first‑policy waiting period.",
+      "evidence": "4.2 Specific Disease/ Procedure Waiting Period (Code- Excl02): i. Expenses related to the treatment of the listed Conditions, surgeries/treatments as per Table A and Table B below, shall be excluded until the expiry of 24 months and 48 months respectively of continuous coverage after the date of inception of the first policy with us.",
+      "page_number": 9
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "expense_category_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_attendant_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

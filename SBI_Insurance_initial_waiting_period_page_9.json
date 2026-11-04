@@ -1,0 +1,15 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    9
+  ],
+  "clauses": [
+    {
+      "name": "initial_waiting_period",
+      "status": "found",
+      "explanation": "The initial general waiting period is 30 days from the commencement of the policy. Medical expenses incurred during this period for any disease or illness are excluded, except for accidental bodily injury. The exclusion applies to the extent of any increased indemnity if the policy is a renewal without a break in cover. However, if the policy is a renewal or rollover from another insurer and the insured has been continuously covered for at least one year, the exclusion for this period is waived.",
+      "evidence": "2. Exclusions applicable to first 30 days of cover from commencement of Policy:\nMedical Expenses incurred for any disease / illness or diagnosable within 30 days, of the commencement (Commencement Date of first Health Insurance Policy with us) of the Policy Period except those incurred as a result of Accidental Bodily Injury.\n\nThis Exclusion shall also apply to the extent of the amount by which the limit of indemnity has been increased if the Policy is a renewal of the Health Insurance Policy with Insurer without break in cover.\n\nIf the policy is a renewal / rollover from any Other Insurer and if the Insured is covered continuously for at least 1 year under a individual health insurance policy for the reimbursement of medical costs for inpatient treatment in a Hospital, this exclusion stands waived",
+      "page_number": 9
+    }
+  ]
+}

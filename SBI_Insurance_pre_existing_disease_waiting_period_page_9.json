@@ -1,0 +1,15 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    9
+  ],
+  "clauses": [
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

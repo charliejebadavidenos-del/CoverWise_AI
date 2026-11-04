@@ -1,0 +1,87 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    10,
+    11,
+    12
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "exclusions",
+      "status": "found",
+      "explanation": "List of exclusions applies to various diseases and situations as outlined",
+      "evidence": "4. Exclusions applicable to first two years of cover from commencement of the Policy, from the following\nDiseases / Illness and its related complications:\nCataract\nBenign Prostatic Hypertrophy\nHysterectomy/ myomectomy for menorrhagia or fibromyoma or prolapse of uterus\nHypertension, Heart Disease and related complications\nDiabetes and related complications\nNon infective Arthritis, Treatment of Spondylosis / Spondylitis, Gout & Rheumatism\nSurgery of Genitourinary tract\nCalculus Diseases of any etiology\nSinusitis and related disorders\nSurgery for prolapsed intervertebral disc unless arising from accident\nSurgery of varicose veins and varicose ulcers\nChronic Renal failure including dialysis",
+      "page_number": 10
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

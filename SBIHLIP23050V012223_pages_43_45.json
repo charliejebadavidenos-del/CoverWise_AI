@@ -1,0 +1,101 @@
+{
+  "document_name": "SBIHLIP23050V012223.pdf",
+  "analyzed_pages": [
+    43,
+    44,
+    45
+  ],
+  "clauses": [
+    {
+      "name": "hospitalization_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "copayment",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "room_rent_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "icu_limit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "initial_waiting_period",
+      "status": "found",
+      "explanation": "The policy excludes expenses for any illness within 30 days from the first Policy Commencement Date, except claims arising from an accident, and the exclusion does not apply if continuous coverage exceeds twelve months.",
+      "evidence": "We are not liable to make any payment under the policy in connection with or in respect of following expenses till the expiry of waiting period mentioned below:\n\nI) First Thirty Days Waiting Period (Code-Excl 03):\na) Expenses related to the treatment of any Illness within 30 days from the first Policy Commencement Date shall be excluded excepts claims arising due to an accident, provided the same are covered.\nb) This exclusion shall not, however, apply if the Insured Person has continuous coverage for more than twelve (12) months.\nc) The within referred waiting period is made applicable to the enhanced Sum Insured in the event of granting higher Sum Insured subsequently.",
+      "page_number": 45
+    },
+    {
+      "name": "pre_existing_disease_waiting_period",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "disease_sub_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "exclusions",
+      "status": "found",
+      "explanation": "The policy excludes expenses related to the treatment of any illness within the first thirty days from the policy commencement date, except for accident‑related claims.",
+      "evidence": "I) First Thirty Days Waiting Period (Code-Excl 03):\na) Expenses related to the treatment of any Illness within 30 days from the first Policy Commencement Date shall be excluded excepts claims arising due to an accident, provided the same are covered.",
+      "page_number": 45
+    },
+    {
+      "name": "child_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "maternity_coverage",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "restoration_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "expense_category_limits",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    },
+    {
+      "name": "child_attendant_benefit",
+      "status": "unknown",
+      "explanation": "Not established by a verified quote in supplied pages.",
+      "evidence": null,
+      "page_number": null
+    }
+  ]
+}

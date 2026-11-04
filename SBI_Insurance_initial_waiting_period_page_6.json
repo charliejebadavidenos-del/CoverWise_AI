@@ -1,0 +1,15 @@
+{
+  "document_name": "SBI_Insurance.pdf",
+  "analyzed_pages": [
+    6
+  ],
+  "clauses": [
+    {
+      "name": "initial_waiting_period",
+      "status": "found",
+      "explanation": "There is a 30‑day initial waiting period from the first policy issue date. No benefit is payable for claims or hospitalisations that occur within this period, except when the hospitalisation is due to an accident or when the coverage is renewed continuously without interruption.",
+      "evidence": "No benefit shall be payable during the term of the Policy for the claim which occurs or where the hospitalisation for the claim has occurred within 30 days of first Policy issue Date. Waiting period is not applicable for the subsequent continuous uninterrupted renewals and hospitalisation due to accidents.",
+      "page_number": 6
+    }
+  ]
+}
